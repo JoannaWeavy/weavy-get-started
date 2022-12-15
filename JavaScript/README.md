@@ -92,3 +92,6 @@ messenger.on("badge", (e, badge) => {
   messengerButton.innerText = "Unread conversations: " + badge.count; 
 });
 ```
+
+## Notes
+Check out the full documentation at [this link](https://www.weavy.com/docs/frontend/drop-in).
