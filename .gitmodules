@@ -1,0 +1,3 @@
+[submodule "JavaScript/weavy-dropin-js"]
+	path = JavaScript/weavy-dropin-js
+	url = https://github.com/weavy/weavy-dropin-js.git
