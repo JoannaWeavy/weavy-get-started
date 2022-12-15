@@ -1,4 +1,4 @@
-#React UI kit
+# React UI kit
 
 The React UI kit is a library that you can add to your new or existing React application. The UI kit consists of various UI components for the Weavy apps . In contrast to the Drop-in UI which uses iframes to display server rendered HTML, the React UI kit uses the Web API to communicate with the Weavy backend.
 
